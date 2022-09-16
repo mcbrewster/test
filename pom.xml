@@ -81,7 +81,7 @@
         <apache.kafka.version>2.1.1</apache.kafka.version>
         <avatica.version>1.15.0</avatica.version>
         <avro.version>1.9.1</avro.version>
-        <calcite.version>1.21.0</calcite.version>
+        <calcite.version>1.32.0</calcite.version>
         <derby.version>10.14.2.0</derby.version>
         <dropwizard.metrics.version>4.0.0</dropwizard.metrics.version>
         <guava.version>16.0.1</guava.version>
